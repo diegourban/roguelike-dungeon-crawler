@@ -1,0 +1,26 @@
+{
+  "name": "roguelike-dungeon-crawler",
+  "version": "1.0.0",
+  "description": "Freecodecamp's React Project for Data Visualization Certification",
+  "main": "index.js",
+  "scripts": {
+    "babel-watch": "babel --watch src/ --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegourban/roguelike-dungeon-crawler.git"
+  },
+  "keywords": [],
+  "author": "Diego Leonardo Urban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegourban/roguelike-dungeon-crawler/issues"
+  },
+  "homepage": "https://github.com/diegourban/roguelike-dungeon-crawler#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
